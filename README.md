@@ -1,4 +1,11 @@
-# Olá! Sou o Carlos Alexandre 👋
+# Olá, eu sou o Carlos Alexandre! 👋
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosAlexandree&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlexandree&layout=compact&theme=tokyonight" alt="Top Langs" height="180em" />
+</div>
+
+---
 
 ## Formação acadêmica
 
@@ -6,45 +13,41 @@
 - 👨‍💼 Especialista em Gestão e Auditoria de Processos pela Faculdade Serra Geral
 - 🎓 Bacharel em Ciências Contábeis pela Universidade Ateneu
 
-## Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/carlos-santiago-ai/)
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlossAlexandree)
+### 🐍 Snake Game - My Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlossAlexandree/CarlossAlexandree/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlossAlexandree/CarlossAlexandree/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarlossAlexandree/CarlossAlexandree/output/github-contribution-grid-snake.svg">
+</picture>
 
-## 🚀 **Habilidades** 
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlossAlexandree)
+### 📊 Visão Geral da Atividade
+<div align="center">
+  <img src="https://metrics.leodido.dev/CarlossAlexandree?template=classic&base.habits=true&base.habits.charts=true&base.habits.trim=true&config.timezone=America/Fortaleza" alt="Activity Chart" width="100%">
+</div>
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+---
 
-[![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+### 🛠️ Tecnologias e Ferramentas
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+---
 
-[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+### 📫 Conecte-se Comigo
+<div align="left">
+  <a href="https://linkedin.com/in/SEU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
-[![ETL](https://img.shields.io/badge/ETL-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
-
-[![Dashboards](https://img.shields.io/badge/Dashboards-FF6F00?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
-
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/)
-
-
-## Estatísticas no GitHub
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CarlossAlexandree&show_icons=true)
-
-
-## Projeto Open Source
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlossAlexandree&repo=DIO-Lab-Open-Source&show_icons=true&bg_color=181717&border_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/CarlossAlexandree/DIO-Lab-Open-Source)
-
-
-## Projetos Conceituais
-
-[![E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=CarlossAlexandree&repo=Projeto-Conceitual-Banco-de-Dados-para-E-commerce)](https://github.com/CarlossAlexandree/Projeto-Conceitual-Banco-de-Dados-para-E-commerce) 
-
-[![Oficina Mecânica](https://github-readme-stats.vercel.app/api/pin/?username=CarlossAlexandree&repo=Sistema-Conceitual-de-Oficina-Mec-nica)](https://github.com/CarlossAlexandree/Sistema-Conceitual-de-Oficina-Mec-nica)
 
 
 ## Linguagens
