@@ -1,8 +1,9 @@
 # Olá, eu sou o Carlos Alexandre! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosAlexandree&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlexandree&layout=compact&theme=tokyonight" alt="Top Langs" height="180em" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CarlossAlexandree&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="170em" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarlossAlexandree&layout=compact&theme=tokyonight" alt="Principais idiomas" height="170em" />
 </div>
 
 ---
