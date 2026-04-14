@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CarlossAlexandree&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="170em" />
-  
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarlossAlexandree&layout=compact&theme=tokyonight" alt="Principais idiomas" height="170em" />
 </div>
 
