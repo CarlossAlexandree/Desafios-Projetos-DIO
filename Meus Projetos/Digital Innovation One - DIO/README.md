@@ -17,7 +17,7 @@ Repositório centralizador de desafios técnicos e projetos práticos desenvolvi
 | Desafio 08 | [Relatório de Vendas — Power BI](./08) |
 | Desafio 09 | [Dashboard Gerencial - Power BI](./09) |
 | Desafio 10 | [Dashboard Gerencial para Tomada de Decisões](./10) |
-| Desafio 11 | Desafio 11 em desenvolvimento... |
+| Desafio 11 | [Relatorio de Vendas e Lucros com Data Analytics](./11) |
 | Desafio 12 | Desafio 12 em desenvolvimento... |
 | Desafio 13 | [Processamento de Dados com MySQL no Azure e Power BI](./13) |
 | Desafio 14 | [Análise de Sentimentos com Language Studio no Azure AI](./14) |
