@@ -23,6 +23,17 @@ Projetos de Deep Learning e Engenharia de IA desenvolvidos no contexto do Mestra
 | **Frameworks** | Implementações avançadas utilizando **PyTorch** e **Keras (MNIST)** (Desafios 03 a 06). |
 | **Evolução** | Conteúdo alinhado às disciplinas de *Advanced AI* e *Data Platform Engineering*. |
 
+### 3. [CS50s: Python](./CS50s%20-%20Python)
+Desenvolvimento de aplicações robustas e lógica de programação avançada através do curso CS50 da Harvard University.
+
+| Categoria | Descrição do Projeto Final |
+| :--- | :--- |
+| **Projeto Final** | **Flashcard AI System**: Um sistema interativo de repetição espaçada (Spaced Repetition System). |
+| **Algoritmo** | Implementação do **SM-2 (SuperMemo 2)** para otimização do ciclo de aprendizagem e retenção de memória. |
+| **Interface** | Geração dinâmica de cartões visuais (Frente/Verso) utilizando a biblioteca **Pillow (PIL)** e integração CLI. |
+| **Qualidade** | Código modularizado com suíte de testes automatizados via **Pytest**, garantindo 100% de confiabilidade na lógica de agendamento. |
+
+**Destaque Técnico:** O projeto utiliza conceitos de MLOps e Engenharia de Software, integrando manipulação de imagens, persistência de dados em JSON e lógica matemática para automação de estudos.
 
 
 ---
