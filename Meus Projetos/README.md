@@ -23,6 +23,8 @@ Projetos de Deep Learning e Engenharia de IA desenvolvidos no contexto do Mestra
 | **Frameworks** | Implementações avançadas utilizando **PyTorch** e **Keras (MNIST)** (Desafios 03 a 06). |
 | **Evolução** | Conteúdo alinhado às disciplinas de *Advanced AI* e *Data Platform Engineering*. |
 
+
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
