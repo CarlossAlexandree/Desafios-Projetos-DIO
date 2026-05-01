@@ -1,0 +1,9 @@
+services:
+  meu-servidor-apache:
+    image: httpd:latest
+    container_name: servidor-dio-projeto
+    ports:
+      - "8080:80"
+    volumes:
+      - ./app:/usr/local/apache2/htdocs/
+    restart: always
